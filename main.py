@@ -3,7 +3,7 @@
 
 from zencad import *
 
-d = 5.9
+d = 5.9+0.1
 w = 37.1
 h = 19.9
 t = 1.1
